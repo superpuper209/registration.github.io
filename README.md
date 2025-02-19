@@ -10,4 +10,6 @@
 * user-authentication;
 * admin-authentication;
 * authentication;
-* registration.
+* registration;
+* Android UI Framework;
+* Android SDK.
